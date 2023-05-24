@@ -4,3 +4,7 @@ body{
     background-size: 70%;
     background-position-x: 45%;
 }
+img{
+    position: absolute;
+    margin-top: 10%;
+}
