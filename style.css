@@ -4,7 +4,9 @@
     font-family: 'Oswald', sans-serif;
     box-sizing: border-box;
     text-decoration: none;
+    background: rgb(137, 255, 182);
 }
+/*inicio do css do login*/
 .container{
     align-items: center;
     position: relative;
@@ -14,8 +16,13 @@
     font-size: 15px;
 }
 #bnt{
-    margin-left: 8%;
+    margin-left: 10%;
 }
 input{
     font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 5%;
+}
+#form{
 }
